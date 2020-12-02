@@ -1,8 +1,8 @@
-import React from 'react';
-import { Route, Switch } from 'react-router-dom';
-import AuthenticatedRoute from './AuthenticatedRoute';
-import Home from './Home';
-import Login from './Login';
+import React from 'react'
+import { Route, Switch } from 'react-router-dom'
+import AuthenticatedRoute from './AuthenticatedRoute'
+import Home from './Home'
+import Login from './Login'
 
 function App() {
   return (
